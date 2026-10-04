@@ -1,0 +1,7 @@
+config/mysql.password
+incoming/usage.ready
+*.log
+__pycache__/
+*.pyc
+.env
+*.backup
